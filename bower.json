@@ -1,0 +1,21 @@
+{
+  "name": "try-polymer-on-rails",
+  "version": "0.0.0",
+  "homepage": "https://github.com/ayasuda/try-polymer-on-rails",
+  "authors": [
+    "Atsushi Yasuda <atsushi.yasuda.jp@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "vendor/assets/components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "core-component-page": "Polymer/core-component-page#^0.5",
+    "polymer": "Polymer/polymer#~0.5.4"
+  }
+}
